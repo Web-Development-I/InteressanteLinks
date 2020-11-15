@@ -18,3 +18,15 @@ Server-client Architecture
 
 Hoe een browser een webpagina opbouwt en weergeeft.        
 [Video over het renderen van een webpagina door de browser](https://www.youtube.com/watch?v=DuSURHrZG6I&ab_channel=AlZimmerman)
+
+Cheat sheet GRID lay-out.        
+[Cheat sheet GRID](https://yoksel.github.io/grid-cheatsheet/)
+
+GRID visual overview.
+[GRID visual overview](https://grid.malven.co/)
+
+Cheat sheet FLEXBOX lay-out.        
+[Cheat sheet FLEXBOX](https://yoksel.github.io/flex-cheatsheet/)
+
+FLEXBOX visual overview.
+[FLEXBOX visual overview](https://flexbox.malven.co/)
