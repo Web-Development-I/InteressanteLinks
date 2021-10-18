@@ -1,6 +1,6 @@
 ## Interessante websites
 
-De referentie website voor wbetechnologieën     
+De referentie website voor webtechnologieën     
 [Mozilla MDN docs](https://developer.mozilla.org/en-US/docs/Web/Reference)   
       
 Validation tool voor HTML      
