@@ -22,7 +22,9 @@ Hoe een browser een webpagina opbouwt en weergeeft.
 Links naar overview van GRID en FLEXBOX lay-out.         
 [Cheat sheet GRID](https://yoksel.github.io/grid-cheatsheet/)
 
-[GRID visual overview](https://grid.malven.co/)      
+[GRID visual overview](https://grid.malven.co/)
+
+[GRID video tutorials](https://gridbyexample.com/video/) 
      
 [Cheat sheet FLEXBOX](https://yoksel.github.io/flex-cheatsheet/)
      
